@@ -32,7 +32,7 @@ h1{
 
 h2{
     font-size: 24px;
-    text-align: center;
+    
 }
 
 #main-bio {
@@ -42,12 +42,13 @@ h2{
 
 #bio-image {
     float:left;
-    width: 70%;
+    width: 50%;
 
 }
 #contact-info {
     float:left;
     width: 30%;
     color: aqua;
+    
 
 }
